@@ -1,0 +1,3 @@
+Sejam todos bem-vindos!
+  Este documento tem  intuito de dar boas vindas aos alunos da turma de engenharia de software ao repositório da turma.
+  Usaremos este repositório para praticar um pouco com GitHub e aprender mais sobre gerenciamento de versões.
